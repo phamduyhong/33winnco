@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+33Win: Đánh thức mọi giác quan - Bùng nổ đam mê cá cược!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`33win <https://33winn.co/>`_ là nhà cái cá cược trực tuyến uy tín hàng đầu Châu Á, được cấp phép hoạt động bởi tổ chức cờ bạc uy tín PAGCOR. Nhà cái cung cấp đa dạng các sản phẩm cá cược và giải trí hấp dẫn với tỷ lệ kèo cạnh tranh và nhiều chương trình khuyến mãi hấp dẫn.  
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 49 Hẻm B11B, Tổ 2, Bình Chánh, Thành phố Hồ Chí Minh, Vietnam. 
 
-   This project is under active development.
+Phone: 0936558654. 
 
-Contents
---------
+Email:info@33winn.co. 
 
-.. toctree::
+Website: https://33winn.co/
 
-   usage
-   api
+#33win #33winnco #33winn #nhacai33win #link33win
